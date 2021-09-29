@@ -3,14 +3,20 @@
 
 <br />
 
-Hi, I'm [Bob Dragon](), a passionate well-experienced Full Stack web, mobile and blockchain developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm [Bob Dragon](), With an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 5 years. Enjoy contributing to all aspects of product creation, while being closely embedded in a team, or positioned as a sole contributor. Aim to build class-leading applications utilizing development best practices in an innovative and creative environment.
 
 **Contact Me**  
 
-- 📧[email](mailto:alex1992818@outlook.com)
 - 💬 Ask me about anything, I am happy to help;
+- 📧[Email](mailto:alex1992818@outlook.com)
+
+**Main Skills**  
+
+- Javascript/Typescript
+- React.js/Vue.js/Next.js/Nuxt.js
+- Solidity/Web3.js
+- Laravel/Codeigniter
+- C++/Java
 
 📈 My GitHub Stats
 
