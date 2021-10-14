@@ -3,7 +3,7 @@
 
 <br />
 
-Hi, I'm [Bob Dragon](), With an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 5 years. Enjoy contributing to all aspects of product creation, while being closely embedded in a team, or positioned as a sole contributor. Aim to build class-leading applications utilizing development best practices in an innovative and creative environment.
+Hi, I'm [Alex Dragon](), With an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 5 years. Enjoy contributing to all aspects of product creation, while being closely embedded in a team, or positioned as a sole contributor. Aim to build class-leading applications utilizing development best practices in an innovative and creative environment.
 
 **Contact Me**  
 
